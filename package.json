@@ -1,5 +1,5 @@
 {
-  "name": "Dark Mini B o t",
+  "name": "AR15BOT",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -29,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bintoro68/easy.git"
+    "url": "git+https://github.com/aris187id/AR15BOT.git"
   },
   "keywords": [
     "k"
   ],
-  "author": "LOL~4NK3R-EROR",
+  "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aris187id/AR15BOT/issues"
