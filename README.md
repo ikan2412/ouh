@@ -13,7 +13,7 @@ Siapin alat dan bahannya.
 ```
 
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Script ini di modifikasi sama saya sendiri Dark bot.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
