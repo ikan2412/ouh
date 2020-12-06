@@ -20,8 +20,8 @@ Script ini di modifikasi sama saya sendiri Dark bot.
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/bintoro68/ezz
-> cd ezz
+> git clone https://github.com/ikan2412/ouh
+> cd ouh
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
